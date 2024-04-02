@@ -1,0 +1,1 @@
+/path/to/space-vim/init.vim
